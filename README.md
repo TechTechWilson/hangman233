@@ -19,8 +19,8 @@
 Play "Hangman", with Python!
 
 
-The aim of this project is to help you practice your Python programming though the well known word game, "Hangman"!
-In this project, you develop your problem-solving, problem-solving and logical thinking skills. 
+The aim of this project is to help you practice your Python programming by producing the well known word game, "Hangman"!
+In this project, you will develop your problem-solving, problem-solving and logical thinking skills. 
 
 ---
 
@@ -41,7 +41,7 @@ consider updating if appropriate.
 3. Guess one letter at a time.
 4. If the guess is correct, the word letter will be displayed.
 5. If the guess is incorrect, a piece of the hangman will be drawn.
-6. Keep guessing until you comlete the word or fully draw the hangman.
+6. Keep guessing until you complete the word or fully draw the hangman.
 
 ---
 
@@ -55,4 +55,8 @@ hangman/hangman.py README.md
 ---
 
 ## License information
-This project is licenced under the [MIT LICENCE](https://github.com/freestyleabg/aicore/blob/main/LICENSE). Please review for more details. 
+This project is licensed under the [MIT LICENSE](https://github.com/freestyleabg/aicore/blob/main/LICENSE). Please review for more details. 
+
+___ 
+
+### I hope you enjoyed the code! Feel free to reach out if you have any questions or feedback!
