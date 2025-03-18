@@ -38,7 +38,7 @@ consider updating if appropriate.
 ## Usage Instructions
 1. Execute `hangman.py` scrip to run the game. 
 2. The game will generate a random word for you to guess.
-3. Guess one letter at a time
+3. Guess one letter at a time.
 4. If the guess is correct, the word letter will be displayed.
 5. If the guess is incorrect, a piece of the hangman will be drawn.
 6. Keep guessing until you comlete the word or fully draw the hangman.
